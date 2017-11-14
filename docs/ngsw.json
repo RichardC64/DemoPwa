@@ -18,8 +18,8 @@
         "DemoPwa/manifest.json",
         "DemoPwa/mstile-150x150.png",
         "DemoPwa/safari-pinned-tab.svg",
-        "DemoPwa/inline.76444c04ad1163c338c7.bundle.js",
-        "DemoPwa/main.16debbe252ecaae75dc5.bundle.js",
+        "DemoPwa/inline.cdd11542c788c29bdf60.bundle.js",
+        "DemoPwa/main.f0ff4dec765a98a32bbd.bundle.js",
         "DemoPwa/polyfills.ad37cd45a71cb38eee76.bundle.js",
         "DemoPwa/styles.d41d8cd98f00b204e980.bundle.css"
       ],
@@ -35,8 +35,8 @@
   ],
   "dataGroups": [],
   "hashTable": {
-    "DemoPwa/inline.76444c04ad1163c338c7.bundle.js": "83388183384dae3019a07fe14dd592712c445a80",
-    "DemoPwa/main.16debbe252ecaae75dc5.bundle.js": "e14fcfee2ce61a90dd9a9feee7fea05ce84192fb",
+    "DemoPwa/inline.cdd11542c788c29bdf60.bundle.js": "eadac41b226159da7ec939dbca3ea281d53df0fe",
+    "DemoPwa/main.f0ff4dec765a98a32bbd.bundle.js": "8aba25961469b4642b990835454873a9c7b1a31d",
     "DemoPwa/polyfills.ad37cd45a71cb38eee76.bundle.js": "11c809cb7f443f578f4d71e640d633d8ada86dd5",
     "DemoPwa/styles.d41d8cd98f00b204e980.bundle.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
     "DemoPwa/android-chrome-192x192.png": "76730dfee90adc3249c149ce1116954653c01068",
@@ -46,7 +46,7 @@
     "DemoPwa/favicon-16x16.png": "ecea936ae935631c213a202e8fae77565b06c31c",
     "DemoPwa/favicon-32x32.png": "0270d96c1eb2f040fcd43a8b28f38e27a3075e97",
     "DemoPwa/favicon.ico": "42928c9627e602e221f87b4dd3f82963d1b5da7c",
-    "DemoPwa/index.html": "f3f0145dd4fb420ac89213825eccc6f3dfea948e",
+    "DemoPwa/index.html": "57527e9365c214b489c41851a1c86b673ed332ac",
     "DemoPwa/manifest.json": "58894c4a647eda6f6f29b0871bf7de78b99759fa",
     "DemoPwa/mstile-150x150.png": "8a119aea53d7d7ca29e90b0e8885570d8ecf9653",
     "DemoPwa/safari-pinned-tab.svg": "99ae55c4e0c520d06fc48a7342a04930ba6a1fd4"

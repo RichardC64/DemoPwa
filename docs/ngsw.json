@@ -1,5 +1,5 @@
 {
-  "configVersion": 4,
+  "configVersion": 1,
   "index": "DemoPwa/index.html",
   "assetGroups": [
     {
@@ -18,36 +18,29 @@
         "DemoPwa/manifest.json",
         "DemoPwa/mstile-150x150.png",
         "DemoPwa/safari-pinned-tab.svg",
-        "DemoPwa/inline.cdd11542c788c29bdf60.bundle.js",
-        "DemoPwa/main.f0ff4dec765a98a32bbd.bundle.js",
+        "DemoPwa/inline.86a5fd90c3744a087a7a.bundle.js",
+        "DemoPwa/main.9ac65d9aa45feae1c03c.bundle.js",
         "DemoPwa/polyfills.ad37cd45a71cb38eee76.bundle.js",
         "DemoPwa/styles.d41d8cd98f00b204e980.bundle.css"
       ],
-      "patterns": []
-    },
-    {
-      "name": "assets",
-      "installMode": "lazy",
-      "updateMode": "prefetch",
-      "urls": [],
       "patterns": []
     }
   ],
   "dataGroups": [],
   "hashTable": {
-    "DemoPwa/inline.cdd11542c788c29bdf60.bundle.js": "eadac41b226159da7ec939dbca3ea281d53df0fe",
-    "DemoPwa/main.f0ff4dec765a98a32bbd.bundle.js": "8aba25961469b4642b990835454873a9c7b1a31d",
+    "DemoPwa/inline.86a5fd90c3744a087a7a.bundle.js": "dfb99285ddeacd7461578bbea852ff0d6e4221d1",
+    "DemoPwa/main.9ac65d9aa45feae1c03c.bundle.js": "0792745c02ed079be90a45c2a90010a03c1e87e9",
     "DemoPwa/polyfills.ad37cd45a71cb38eee76.bundle.js": "11c809cb7f443f578f4d71e640d633d8ada86dd5",
     "DemoPwa/styles.d41d8cd98f00b204e980.bundle.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
     "DemoPwa/android-chrome-192x192.png": "76730dfee90adc3249c149ce1116954653c01068",
     "DemoPwa/android-chrome-512x512.png": "bf7da50ba777012675569556c472db250eaa9f21",
     "DemoPwa/apple-touch-icon.png": "db3504ed924fee17cefb646e3069d29e0f35075e",
-    "DemoPwa/browserconfig.xml": "974aea18bda5a95802c06b80126ab1d96d91d708",
+    "DemoPwa/browserconfig.xml": "37d0dfcbeeb1c448359989f655638ada21b91576",
     "DemoPwa/favicon-16x16.png": "ecea936ae935631c213a202e8fae77565b06c31c",
     "DemoPwa/favicon-32x32.png": "0270d96c1eb2f040fcd43a8b28f38e27a3075e97",
     "DemoPwa/favicon.ico": "42928c9627e602e221f87b4dd3f82963d1b5da7c",
-    "DemoPwa/index.html": "57527e9365c214b489c41851a1c86b673ed332ac",
-    "DemoPwa/manifest.json": "58894c4a647eda6f6f29b0871bf7de78b99759fa",
+    "DemoPwa/index.html": "42d3dc80272e9447c5c5ecb335b023887b11d6c9",
+    "DemoPwa/manifest.json": "3435ab0d5315310e32d3cc5ee4b72326d95cfddb",
     "DemoPwa/mstile-150x150.png": "8a119aea53d7d7ca29e90b0e8885570d8ecf9653",
     "DemoPwa/safari-pinned-tab.svg": "99ae55c4e0c520d06fc48a7342a04930ba6a1fd4"
   }

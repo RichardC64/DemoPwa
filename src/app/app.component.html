@@ -1,11 +1,16 @@
 <!--The content below is only a placeholder and can be replaced.-->
 <div style="text-align:center">
   <h1>
-    DEMO PWA
+    DEMO PWA v2
   </h1>
 </div>
 
 
 <div>
   <a href="https://www.youtube.com/channel/UCJzbA1TXeWrtfftjDjpooYA/playlists">Pour en savoir plus</a>
+</div>
+
+<div *ngIf="showUpdate">
+  Une nouvelle version de l'application est disponible.
+  <button (click)='onUpdate()'>Cliquez ici pour mettre à jour</button>
 </div>

@@ -20,18 +20,7 @@
         ],
         "versionedFiles": [
           "/*.bundle.css",
-          "/*.bundle.js",
-          "/*.chunk.js"
-        ]
-      }
-    },
-    {
-      "name": "assets",
-      "installMode": "lazy",
-      "updateMode": "prefetch",
-      "resources": {
-        "files": [
-          "/assets/**"
+          "/*.bundle.js"
         ]
       }
     }

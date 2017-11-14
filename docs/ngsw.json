@@ -1,0 +1,54 @@
+{
+  "configVersion": 1,
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "/android-chrome-192x192.png",
+        "/android-chrome-512x512.png",
+        "/apple-touch-icon.png",
+        "/browserconfig.xml",
+        "/favicon-16x16.png",
+        "/favicon-32x32.png",
+        "/favicon.ico",
+        "/index.html",
+        "/manifest.json",
+        "/mstile-150x150.png",
+        "/safari-pinned-tab.svg",
+        "/inline.d3b4669fbe880b54184f.bundle.js",
+        "/main.e67bd577eb73359cc148.bundle.js",
+        "/polyfills.ad37cd45a71cb38eee76.bundle.js",
+        "/styles.d41d8cd98f00b204e980.bundle.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/inline.d3b4669fbe880b54184f.bundle.js": "763919ae0c18915c0a41bcbee9fb2d5b7322ac32",
+    "/main.e67bd577eb73359cc148.bundle.js": "af0b334e2a8611fc013568e021067766da24c067",
+    "/polyfills.ad37cd45a71cb38eee76.bundle.js": "11c809cb7f443f578f4d71e640d633d8ada86dd5",
+    "/styles.d41d8cd98f00b204e980.bundle.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "/android-chrome-192x192.png": "76730dfee90adc3249c149ce1116954653c01068",
+    "/android-chrome-512x512.png": "bf7da50ba777012675569556c472db250eaa9f21",
+    "/apple-touch-icon.png": "db3504ed924fee17cefb646e3069d29e0f35075e",
+    "/browserconfig.xml": "974aea18bda5a95802c06b80126ab1d96d91d708",
+    "/favicon-16x16.png": "ecea936ae935631c213a202e8fae77565b06c31c",
+    "/favicon-32x32.png": "0270d96c1eb2f040fcd43a8b28f38e27a3075e97",
+    "/favicon.ico": "42928c9627e602e221f87b4dd3f82963d1b5da7c",
+    "/index.html": "209c4293f301f9d94fdd761cdfe3841c3f067767",
+    "/manifest.json": "58894c4a647eda6f6f29b0871bf7de78b99759fa",
+    "/mstile-150x150.png": "8a119aea53d7d7ca29e90b0e8885570d8ecf9653",
+    "/safari-pinned-tab.svg": "99ae55c4e0c520d06fc48a7342a04930ba6a1fd4"
+  }
+}

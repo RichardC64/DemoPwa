@@ -9,7 +9,7 @@
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e",
-    "publishGithub": "ng github-pages:deploy"
+    "publishGithub": "ng build --prod --output-path docs --base-href DemoPwa"
   },
   "private": true,
   "dependencies": {

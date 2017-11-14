@@ -13,7 +13,7 @@ import { environment } from '../environments/environment';
   ],
   imports: [
     BrowserModule,
-    environment.production ? ServiceWorkerModule.register('/DemoPwa/ngsw-worker.js') : []
+    environment.production ? ServiceWorkerModule.register('/ngsw-worker.js') : []
   ],
   providers: [],
   bootstrap: [AppComponent]

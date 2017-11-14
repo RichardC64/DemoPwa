@@ -13,7 +13,7 @@
     "http-server": "http-server dist -p 3333",
     "buildPwa": "ng build --prod && npm run ngsw-config",
     "servePwa": "npm run buildPwa && npm run http-server",
-    "ngsw-config-github": "ngsw-config docs src/ngsw.json",
+    "ngsw-config-github": "ngsw-config docs src/ngsw.json DemoPwa",
     "publishGithub": "ng build --prod --output-path docs --base-href DemoPwa && npm run ngsw-config-github"
   },
   "private": true,

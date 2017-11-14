@@ -14,7 +14,7 @@
         }
     ],
     "theme_color": "#6100ff",
-    "background_color": "#6100ff",
+    "background_color": "#9c62ff",
     "display": "standalone",
     "start_url": "/DemoPwa/index.html"
 }
